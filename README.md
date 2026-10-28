@@ -108,37 +108,35 @@ Libraries such as spaCy and NLTK can support text processing where configured in
 ---
 ## 🖥️ Application Screenshots
 
-The following gallery documents the key interfaces and features of the ATS Resume Analyzer. All screenshots should be captured from the actual running application.
-
 ### 🏠 Homepage
-![Homepage](screenshots/01-homepage.png)
+![Homepage](screenshots/01-homepage.jpeg)
 
 ### 👤 User Dashboard
-![User Dashboard](screenshots/02-user-dashboard.png)
+![User Dashboard](screenshots/02-user-dashboard.jpeg)
 
 ### 📤 Resume Upload
-![Resume Upload](screenshots/03-resume-upload.png)
+![Resume Upload](screenshots/03-resume-upload.jpeg)
 
 ### 📊 ATS Score Results
-![ATS Score Results](screenshots/04-ats-score-results.png)
+![ATS Score Results](screenshots/04-ats-score-results.jpeg)
 
 ### 🔍 Missing Keywords
-![Missing Keywords](screenshots/05-missing-keywords.png)
+![Missing Keywords](screenshots/05-missing-keywords.jpeg)
 
 ### 💡 Improvement Suggestions
-![Improvement Suggestions](screenshots/06-improvement-suggestions.png)
+![Improvement Suggestions](screenshots/06-improvement-suggestions.jpeg)
 
 ### ✨ Application Features
-![Application Features](screenshots/07-features.png)
+![Application Features](screenshots/07-features.jpeg)
 
 ### 🧑‍💼 Recruiter Dashboard
-![Recruiter Dashboard](screenshots/08-recruiter-dashboard.png)
+![Recruiter Dashboard](screenshots/08-recruiter-dashboard.jpeg)
 
 ### 🏆 Resume Ranking and Filtering
-![Resume Ranking and Filtering](screenshots/09-resume-ranking.png)
+![Resume Ranking and Filtering](screenshots/09-resume-ranking.jpeg)
 
 ### 📄 Candidate Analysis
-![Candidate Analysis](screenshots/10-candidate-details.png)
+![Candidate Analysis](screenshots/10-candidate-details.jpeg)
 
 **Note:** Keep only screenshots that match the actual implemented application. Ensure each image exists in the `screenshots/` folder with the exact filename shown above.
 ## 🛠️ Technology Stack
