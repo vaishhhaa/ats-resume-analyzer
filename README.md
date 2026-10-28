@@ -39,11 +39,13 @@ A dedicated dashboard for job seekers to review their resume and understand pote
 
 **Goal:** Help job seekers identify potential resume gaps before applying for a position.
 
-![User Dashboard](screenshots/02-user-dashboard.png)
+### 1. 👤 User Dashboard — Resume Analysis
 
-![Resume Analysis Results](screenshots/04-ats-score-results.png)
+![User Dashboard](screenshots/02-user-dashboard.jpeg)
 
-![Missing Keywords and Suggestions](screenshots/06-improvement-suggestions.png)
+![Resume Analysis Results](screenshots/04-ats-score-results.jpeg)
+
+![Missing Keywords and Suggestions](screenshots/06-improvement-suggestions.jpeg)
 
 ### 2. 🧑‍💼 Recruiter Dashboard — Candidate Screening
 
@@ -54,15 +56,15 @@ A separate interface focused on reviewing and evaluating candidate resumes.
 - **Candidate Filtering:** Filter resume results using the application's available filtering options.
 - **Similarity-Based Matching:** Use TF-IDF and cosine similarity to calculate textual relevance.
 - **Candidate Review:** Present analysis results in a recruiter-oriented workflow.
-- **Bulk Screening Workflow:** Designed to support analysis of large resume collections, including a 100+ resume workflow where supported by the available system resources.
+- **Bulk Screening Workflow:** Designed to support large resume collections, including a 100+ resume workflow where supported by available system resources.
 
 **Goal:** Help recruiters organize resume screening and prioritize candidates for further review.
 
-![Recruiter Dashboard](screenshots/07-recruiter-dashboard.png)
+![Recruiter Dashboard](screenshots/08-recruiter-dashboard.jpeg)
 
-![Resume Ranking and Filtering](screenshots/08-resume-ranking.png)
+![Resume Ranking and Filtering](screenshots/09-resume-ranking.jpeg)
 
-![Candidate Analysis](screenshots/09-candidate-details.png)
+![Candidate Analysis](screenshots/10-candidate-details.jpeg)
 
 > Note: Screenshots should show the actual implemented interface. Remove any feature or screenshot reference that does not match the current application.
 
