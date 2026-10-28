@@ -106,27 +106,41 @@ Libraries such as spaCy and NLTK can support text processing where configured in
 > An ATS-oriented score is not a universal ATS pass probability. Text similarity alone does not determine candidate suitability or guarantee that a resume will pass an employer's screening system.
 
 ---
-
 ## 🖥️ Application Screenshots
 
-The following gallery documents the key interfaces of the application. Replace the image paths with the screenshots captured from your running project.
+The following gallery documents the key interfaces and features of the ATS Resume Analyzer. All screenshots should be captured from the actual running application.
 
-| Screen | Screenshot |
-|---|---|
-| Homepage | `screenshots/01-homepage.png` |
-| User Dashboard | `screenshots/02-user-dashboard.png` |
-| Resume Upload | `screenshots/03-resume-upload.png` |
-| ATS Score Results | `screenshots/04-ats-score-results.png` |
-| Missing Keywords | `screenshots/05-missing-keywords.png` |
-| Improvement Suggestions | `screenshots/06-improvement-suggestions.png` |
-| Recruiter Dashboard | `screenshots/07-recruiter-dashboard.png` |
-| Resume Ranking | `screenshots/08-resume-ranking.png` |
-| Candidate Details | `screenshots/09-candidate-details.png` |
+### 🏠 Homepage
+![Homepage](screenshots/01-homepage.png)
 
-Keep only screenshots for screens that actually exist in the project. GitHub will display committed images directly in this README when the paths match.
+### 👤 User Dashboard
+![User Dashboard](screenshots/02-user-dashboard.png)
 
----
+### 📤 Resume Upload
+![Resume Upload](screenshots/03-resume-upload.png)
 
+### 📊 ATS Score Results
+![ATS Score Results](screenshots/04-ats-score-results.png)
+
+### 🔍 Missing Keywords
+![Missing Keywords](screenshots/05-missing-keywords.png)
+
+### 💡 Improvement Suggestions
+![Improvement Suggestions](screenshots/06-improvement-suggestions.png)
+
+### ✨ Application Features
+![Application Features](screenshots/07-features.png)
+
+### 🧑‍💼 Recruiter Dashboard
+![Recruiter Dashboard](screenshots/08-recruiter-dashboard.png)
+
+### 🏆 Resume Ranking and Filtering
+![Resume Ranking and Filtering](screenshots/09-resume-ranking.png)
+
+### 📄 Candidate Analysis
+![Candidate Analysis](screenshots/10-candidate-details.png)
+
+**Note:** Keep only screenshots that match the actual implemented application. Ensure each image exists in the `screenshots/` folder with the exact filename shown above.
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
